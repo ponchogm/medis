@@ -1,0 +1,28 @@
+[16-May-2018 20:06:47 America/Santiago] PHP Fatal error:  Call to undefined function pg_connect() in /home/rtscd/public_html/medis/system/database/drivers/postgre/postgre_driver.php on line 154
+[16-May-2018 20:09:37 America/Santiago] PHP Fatal error:  Call to undefined function pg_connect() in /home/rtscd/public_html/medis/system/database/drivers/postgre/postgre_driver.php on line 154
+[16-May-2018 20:09:47 America/Santiago] PHP Fatal error:  Call to undefined function pg_connect() in /home/rtscd/public_html/medis/system/database/drivers/postgre/postgre_driver.php on line 154
+[16-May-2018 20:09:52 America/Santiago] PHP Fatal error:  Call to undefined function pg_connect() in /home/rtscd/public_html/medis/system/database/drivers/postgre/postgre_driver.php on line 154
+[16-May-2018 20:15:10 America/Santiago] PHP Fatal error:  Call to undefined function pg_connect() in /home/rtscd/public_html/medis/system/database/drivers/postgre/postgre_driver.php on line 154
+[16-May-2018 20:16:26 America/Santiago] PHP Fatal error:  Call to undefined function pg_connect() in /home/rtscd/public_html/medis/system/database/drivers/postgre/postgre_driver.php on line 154
+[16-May-2018 20:36:44 America/Santiago] PHP Fatal error:  Call to undefined function pg_connect() in /home/rtscd/public_html/medis/system/database/drivers/postgre/postgre_driver.php on line 154
+[03-Jul-2018 16:06:37 America/Santiago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/rtscd/public_html/medis/application/controllers/MedicosController.php on line 52
+[03-Jul-2018 17:02:34 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/rtscd/public_html/medis/application/views/sis_header.php on line 78
+[05-Jul-2018 16:13:10 America/Santiago] PHP Fatal error:  Call to undefined function form_dropdown() in /home/rtscd/public_html/medis/application/views/UsuariosView.php on line 97
+[05-Jul-2018 16:17:56 America/Santiago] PHP Fatal error:  Call to a member function result() on a non-object in /home/rtscd/public_html/medis/application/controllers/UsuariosController.php on line 53
+[05-Jul-2018 16:52:37 America/Santiago] PHP Fatal error:  Can't use method return value in write context in /home/rtscd/public_html/medis/application/controllers/UsuariosController.php on line 30
+[05-Jul-2018 17:27:40 America/Santiago] PHP Fatal error:  Call to undefined function form_dropdown() in /home/rtscd/public_html/medis/application/views/medicos_view.php on line 92
+[05-Jul-2018 17:28:15 America/Santiago] PHP Fatal error:  Call to undefined function form_dropdown() in /home/rtscd/public_html/medis/application/views/medicos_view.php on line 92
+[05-Jul-2018 17:42:22 America/Santiago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/rtscd/public_html/medis/application/models/MedicosModel.php on line 34
+[05-Jul-2018 17:42:23 America/Santiago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/rtscd/public_html/medis/application/models/MedicosModel.php on line 34
+[06-Jul-2018 01:17:51 America/Santiago] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/rtscd/public_html/medis/application/controllers/ClientesNewController.php on line 6
+[06-Jul-2018 01:18:21 America/Santiago] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/rtscd/public_html/medis/application/controllers/ClientesNewController.php on line 6
+[06-Jul-2018 01:24:10 America/Santiago] PHP Fatal error:  Cannot break/continue 1 level in /home/rtscd/public_html/medis/application/controllers/ClientesNewController.php on line 58
+[06-Jul-2018 01:27:01 America/Santiago] PHP Fatal error:  Cannot break/continue 1 level in /home/rtscd/public_html/medis/application/controllers/ClientesNewController.php on line 58
+[06-Jul-2018 01:35:03 America/Santiago] PHP Parse error:  syntax error, unexpected T_IF in /home/rtscd/public_html/medis/application/controllers/ClientesNewController.php on line 37
+[06-Jul-2018 01:36:42 America/Santiago] PHP Parse error:  syntax error, unexpected T_IF in /home/rtscd/public_html/medis/application/controllers/ClientesNewController.php on line 37
+[11-Jul-2018 13:12:29 America/Santiago] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/rtscd/public_html/medis/application/views/InstModView.php on line 49
+[11-Jul-2018 13:12:39 America/Santiago] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/rtscd/public_html/medis/application/views/InstModView.php on line 49
+[11-Jul-2018 13:12:40 America/Santiago] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/rtscd/public_html/medis/application/views/InstModView.php on line 49
+[11-Jul-2018 13:12:40 America/Santiago] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/rtscd/public_html/medis/application/views/InstModView.php on line 49
+[11-Jul-2018 13:12:40 America/Santiago] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/rtscd/public_html/medis/application/views/InstModView.php on line 49
+[11-Jul-2018 15:07:43 America/Santiago] PHP Fatal error:  Call to a member function row() on a non-object in /home/rtscd/public_html/medis/application/controllers/InstitucionesController.php on line 74
